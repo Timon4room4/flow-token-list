@@ -1,0 +1,15 @@
+{
+    "address": "0x75eaf55ba62052d1",
+    "contractName": "TimonsVegaz",
+    "path": {
+      "vault": "/storage/TimonsVegazVault",
+      "balance": "/public/TimonsVegazMetadata",
+      "receiver": "/public/TimonsVegazReceiver"
+    },
+    "symbol": "VEGAZ",
+    "name": "Timon's Vegaz",
+    "decimals": 8,
+    "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.75eaf55ba62052d1.TimonsVegaz/logo.png",
+    "tags": ["meme-coin"],
+    "extensions": {}
+  }
